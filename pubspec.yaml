@@ -13,7 +13,7 @@ dependencies:
   firebase_auth:
     git:
       url: git@github.com:danielroek/flutterfire.git
-      path: packages/firebase_auth/firbase_auth
+      path: packages/firebase_auth/firebase_auth
   firebase_core: ^2.3.0
   meta: ^1.3.0
   equatable: ^2.0.0
